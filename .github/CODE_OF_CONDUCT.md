@@ -69,7 +69,7 @@ reported to the club representatives responsible for enforcement at
 safeguarding concern. All complaints will be reviewed and investigated 
 promptly and fairly.
 
-All club representativess are obligated to respect the privacy and security 
+All club representatives are obligated to respect the privacy and security 
 of the reporter of any incident.
 
 ## Enforcement Guidelines
@@ -113,7 +113,7 @@ Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
 
-**Cluub Impact**: Demonstrating a pattern of violation of club
+**Club Impact**: Demonstrating a pattern of violation of club
 standards, including sustained inappropriate behavior, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
