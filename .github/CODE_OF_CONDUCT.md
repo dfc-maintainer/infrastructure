@@ -50,7 +50,7 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
-Club representatives include trustees, committee members, coaches, referees and 
+Club representatives include trustees, committee members, coaches, referees and
 maintainers named in the [Code Owners](CODEOWNERS) for each repository.
 
 ## Scope
@@ -66,10 +66,10 @@ representative at an online or offline event.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the club representatives responsible for enforcement at
 [contact], or to our [welfare] officer(s) where there is a welfare or
-safeguarding concern. All complaints will be reviewed and investigated 
+safeguarding concern. All complaints will be reviewed and investigated
 promptly and fairly.
 
-All club representatives are obligated to respect the privacy and security 
+All club representatives are obligated to respect the privacy and security
 of the reporter of any incident.
 
 ## Enforcement Guidelines
